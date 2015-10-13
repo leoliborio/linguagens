@@ -1,0 +1,4 @@
+Explique com suas próprias palavras, a diferença entre linguagem
+Compilada, Interpretada e Híbrida. 
+
+Uma linguagem compilada necessita de um compilador para traduzir o código em comandos executáveis pela máquina, enquanto linguagens interpretadas podem ser executadas diretamente através de um intéprete. Já linguagens híbridas se utilizam de um compilador para transformar o código em uma linguagem intermediária, que pode ser executada diretamente por um intérprete.
